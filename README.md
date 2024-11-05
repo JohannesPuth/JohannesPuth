@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JohannesPuth
+- 👀 I’m studying at the University of Zurich
+- 🌱 I’m currently learning Python.
